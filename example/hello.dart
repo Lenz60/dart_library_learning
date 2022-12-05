@@ -1,4 +1,4 @@
-import 'package:dart_library/hello.dart';
+import 'package:dart_library/hello.dart'; //import from lib
 
 void main(){
   print(sayHello("Rapli"));
